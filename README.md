@@ -102,6 +102,8 @@ Final Version:
 Zomato’s data-driven strategy, partnerships, and IPO success made it a food-tech leader.
 Conclusion: Effective decision-making and innovation drove its long-term growth.
 
+<img width="1536" height="1024" alt="ChatGPT Image Oct 22, 2025, 09_00_19 AM" src="https://github.com/user-attachments/assets/8ac96d79-8e3f-457d-9f2f-af1cbd7ce9a0" />
+
 
 ## Deliverables:
 1.First Draft: Basic business report or case study generated using simple prompts.
